@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="ListaImagenes">Lista de imagenes</string>
+    <string name="piepantalla">"Derechos recervados "</string>
+    <string name="logoandroid">Logo de Android</string>
+    <string name="logopubg">Logo de PUBG</string>
+    <string name="logoface">Logo de Face</string>
+    <string name="logotwitter">Logo de Twitter</string>
+    <string name="logowhats">Logo de Whats</string>
+    <string name="miboton">Click aqui</string>
+    <string name="Ingresanombre">Ingresa tu Nombre</string>
+</resources>
